@@ -1,0 +1,15 @@
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\Operations.exe.config
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\Operations.exe
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\Operations.pdb
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\CsvHelper.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\DataLayer.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\EntityFramework.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\DataLayer.pdb
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\DataLayer.dll.config
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\CsvHelper.xml
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\EntityFramework.xml
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\obj\Debug\Operations.exe
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\Operations\obj\Debug\Operations.pdb

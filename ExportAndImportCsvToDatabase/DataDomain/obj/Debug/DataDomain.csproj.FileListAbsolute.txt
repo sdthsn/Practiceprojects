@@ -1,0 +1,10 @@
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\bin\Debug\DataDomain.dll.config
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\bin\Debug\DataDomain.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\bin\Debug\DataDomain.pdb
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\bin\Debug\EntityFramework.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\bin\Debug\EntityFramework.xml
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\obj\Debug\DataDomain.csprojResolveAssemblyReference.cache
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\obj\Debug\DataDomain.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\DataDomain\obj\Debug\DataDomain.pdb

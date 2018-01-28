@@ -1,0 +1,13 @@
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\CodeFirstTest.exe.config
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\CodeFirstTest.exe
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\CodeFirstTest.pdb
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\DataDomain.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\EntityFramework.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\DataDomain.pdb
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\DataDomain.dll.config
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\EntityFramework.xml
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\obj\Debug\CodeFirstTest.csprojResolveAssemblyReference.cache
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\obj\Debug\CodeFirstTest.exe
+c:\users\sdths\onedrive\documents\visual studio 2017\Projects\ExportAndImportCsvToDatabase\CodeFirstTest\obj\Debug\CodeFirstTest.pdb
